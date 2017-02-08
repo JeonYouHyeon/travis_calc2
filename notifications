@@ -1,2 +1,7 @@
 notifications:
   slack: jeonyouhyeon:RAvp0NkNkRYFDGO6ZIc4nMfJ
+otifications:
+  slack:
+    rooms:
+      - jeonyouhyeon:RAvp0NkNkRYFDGO6ZIc4nMfJ#general
+      - jeonyouhyeon:RAvp0NkNkRYFDGO6ZIc4nMfJ#random
